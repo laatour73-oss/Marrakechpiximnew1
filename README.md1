@@ -1,0 +1,56 @@
+# MARRAKECHPIXIM MPX DIDOO
+
+Unified HTML platform project.
+
+## Main File
+
+`index.html`
+
+## Features in this demonstration
+
+- Marrakechpixim opening screen
+- 3D globe-style visual
+- ENTER PLATFORM button
+- Automatic transition after 20 seconds
+- Two platform information panels
+- 66 category placeholders
+- Customer and company forms
+- Cinema media section
+- MPX DIDOO demonstration assistant
+- Subscription prices from $2 to $30
+- Mobile-responsive layout
+- Green and gold design
+
+## Installation
+
+1. Create a GitHub repository.
+2. Add `index.html` to the repository root.
+3. Add this `README.md`.
+4. Commit the files.
+5. Connect the repository to Cloudflare Pages.
+
+## Cloudflare Pages
+
+For a plain HTML project:
+
+- Framework preset: None
+- Build command: `exit 0`
+- Build output directory: `.`
+- Production branch: `main`
+
+## Important
+
+This is a demonstration foundation.
+
+The original 66 category images and existing platform
+features must be imported from the original project.
+
+Payments, PayPal API, WhatsApp, weather, NASA,
+satellite services and AI require separate integrations.
+
+Never store API secrets in HTML or GitHub.
+
+Use Cloudflare Worker Secrets for private credentials.
+
+Do not enable real payments until Sandbox testing,
+provider verification and webhook validation succeed.
